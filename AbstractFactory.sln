@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{72C86A49-3637-405F-BB8A-1C2824BEDEB1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstractory", "AbstractFactory\Abstractory.csproj", "{72C86A49-3637-405F-BB8A-1C2824BEDEB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbtractoryConsole", "Abtractory.Console\AbtractoryConsole.csproj", "{D3DFCA04-458D-4896-A4AD-8ED9ABEBD9D9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{72C86A49-3637-405F-BB8A-1C2824BEDEB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72C86A49-3637-405F-BB8A-1C2824BEDEB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72C86A49-3637-405F-BB8A-1C2824BEDEB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3DFCA04-458D-4896-A4AD-8ED9ABEBD9D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3DFCA04-458D-4896-A4AD-8ED9ABEBD9D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3DFCA04-458D-4896-A4AD-8ED9ABEBD9D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3DFCA04-458D-4896-A4AD-8ED9ABEBD9D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
